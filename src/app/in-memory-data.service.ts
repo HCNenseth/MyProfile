@@ -5,9 +5,9 @@ export class InMemoryDataService implements InMemoryDbService {
   
   createDb() {
     const heroes = [
-      { id: 11, name: 'Mr. Nice' },
-      { id: 12, name: 'Narco' },
-      { id: 13, name: 'BomBasto' },
+      { id: 11, name: 'MyProfile' },
+      { id: 12, name: 'cheap flights' },
+      { id: 13, name: 'SecDBApp' },
       { id: 14, name: 'Celeritas' },
       { id: 15, name: 'Magenta' },
       { id: 16, name: 'RubberMan' },
